@@ -1,0 +1,36 @@
+From: rmehta@pharmadistro-in.com
+To: quality.complaints@apimanufacturer.com
+Subject: Quality Complaint - Discoloration observed in Metformin HCl API batch
+
+Dear QA Team,
+
+I am writing on behalf of Pharma Distro India Pvt. Ltd. to report a quality
+issue with a recent shipment.
+
+Product: Metformin Hydrochloride
+Strength/Grade: IP Grade, 99.5% purity
+Batch/Lot Number: MET-HCL-2026-0417
+Manufacturing Date: 2026-04-17
+Expiry Date: 2028-04-16
+Quantity Affected: 25 kg (out of 200 kg drum lot)
+
+On receipt and visual inspection during incoming QC at our facility on
+2026-07-18, we observed a distinct yellowish discoloration in a 25 kg
+sub-quantity of the API, which is inconsistent with the expected white to
+off-white crystalline powder described in the Certificate of Analysis.
+Two of our analysts independently confirmed the discoloration. No unusual
+odor was noted. The material has been quarantined and has not been used
+in any finished dosage form manufacturing.
+
+We request a formal investigation into the root cause, confirmation of
+whether this is isolated to our sub-lot or affects the wider batch, and
+your CAPA plan. Given this material is intended for oral solid dosage
+manufacturing, we consider this a high-priority quality issue.
+
+Please treat this as urgent given upcoming production schedules.
+
+Regards,
+Rohan Mehta
+Quality Assurance Manager
+Pharma Distro India Pvt. Ltd.
+Phone: +91-98765-43210
