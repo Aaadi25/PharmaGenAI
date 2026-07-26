@@ -1,4 +1,4 @@
-# AIVOA — AI-Powered Customer Complaint Management System
+# AI-Powered Customer Complaint Management System
 
 Pharmaceutical (API & FDF) customer complaint intake module, built for the
 AIVOA Round 1 Full Stack assessment. Mirrors the reference UI: a complaint
