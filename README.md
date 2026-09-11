@@ -1,4 +1,4 @@
-# AI-Powered Customer Complaint Management System
+# PharmaGenAI — LLM-Powered Complaint Intelligence
 
 A Pharmaceutical (API & FDF) Customer Complaint Intake System that combines AI-powered document understanding with a Quality Management System (QMS) workflow. The application features a complaint form alongside an AI intake assistant that reads uploaded documents or pasted emails and automatically extracts and populates complaint information.
 
